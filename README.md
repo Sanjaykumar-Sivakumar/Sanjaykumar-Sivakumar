@@ -23,8 +23,8 @@ Student at Nandha Engineering College
 <img width="24" height="24" src="https://img.icons8.com/plumpy/24/framer-logo.png" alt="framer-logo"/>
 
 
-### 💻 Workspace Spec
-<img height="30" src="https://img.shields.io/badge/HP Victus Gaming?style=for-the-badge&logo=HP&logoColor=white"/> 
+### 💻 Workspace Spec            
+<img height="30" src="https://img.shields.io/badge/HP Victus Gaming-007DB8?style=for-the-badge&logo=HP&logoColor=white"/> 
 <img height="30" src="https://img.shields.io/badge/Intel-i5_12th_Gen-0071C5?style=for-the-badge&logo=intel&logoColor=white"/>
 
 ### LinkedIn Statistics
