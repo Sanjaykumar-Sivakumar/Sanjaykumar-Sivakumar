@@ -32,11 +32,6 @@ Student at Nandha Engineering College
 [![LinkedIn Connections](https://img.shields.io/badge/Connections-500+-brightgreen)](www.linkedin.com/in/ssk24/)
 
 
-### Github Statistics
-![Sanjaykumar's Stats](https://github-readme-stats.vercel.app/api?username=Sanjaykumar-Sivakumar&theme=chartreuse-dark&show_icons=true&hide_border=true&count_private=true)
-![Sanjaykumar's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Sanjaykumar-Sivakumar&theme=chartreuse-dark&hide_border=true)
-![Sanjaykumar's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sanjaykumar-Sivakumar&theme=chartreuse-dark&show_icons=true&hide_border=true&layout=compact)
-
 ### LeetCode Statistics
 ![LeetCode Stats](https://leetcard.jacoblin.cool/Sanjaykumar-Sivakumar?theme=chartreuse&font=Noto%20Sans%20Mro&ext=activity)
 
