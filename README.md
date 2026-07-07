@@ -19,7 +19,7 @@ Student at Nandha Engineering College
 ### Software and Designing Tools
 <img height="50" width="50" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/> <img height="50" src="https://img.icons8.com/officel/480/null/java-eclipse.png"/> <img width="48" height="48" src="https://img.icons8.com/fluency/48/canva.png" alt="canva"/>
 <img width="48" height="48" src="https://img.icons8.com/fluency/48/matlab.png" alt="matlab"/> <img width="50" height="50" src="https://img.icons8.com/fluency/50/jupyter.png" alt="jupyter"/> <img width="50" height="50" src="https://img.icons8.com/ios-filled/50/mysql.png" alt="mysql"/>
-<img width="24" height="24" src="https://img.icons8.com/plumpy/24/framer-logo.png" alt="framer-logo"/>
+
 
 
 ### 💻 Workspace Spec            
